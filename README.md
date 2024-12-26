@@ -11,16 +11,17 @@ This repository is a part of PWC virtual internship and it aims to create a well
 ---
 ## Call center trend data analysis
 
-* Gauge Charts: The gauge charts display the speed at which queries were answered and customer satisfaction levels.
-* Donut Charts: The donut charts show the percentage of calls answered and resolved.
-* Bar Chart: The bar chart illustrates the number of calls answered for each month.
-* Line Chart: The line chart displays the timings of when agents were called to address queries.
-* Agent Statistics Table: The table provides a detailed view of all agents, including relevant information such as calls answered and duration. 
-
-
-The slicers and agent statistics table are used to select specific date, agent name and branch of the agent. This further changes the visualization for each different selection.
-
 <img src="readme.jpg" >
+
+## Customer retention dashboard
+
+<img src="div.png" >
+<img src="div2.png" >
+
+## Diversity analysis dashboard
+
+<img src="inc.png" >
+<img src="diversity23.png" >
 
 
 ---
@@ -30,7 +31,3 @@ This project completely belongs to PWC virtual internship experience and the dat
 
 Resources:
 - Learnit Training PowerBI youtube course https://www.youtube.com/watch?v=e6QD8lP-m6E
-
-
-
-
